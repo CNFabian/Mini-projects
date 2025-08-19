@@ -1,6 +1,6 @@
-// lib/categories.js
-import { categories as initialCategories } from '../data/mockCategories';
-import { getAllTasks } from './tasks';
+// src/lib/categories.js
+import { categories as initialCategories } from '@/data/mockCategories';
+import { getAllTasks } from '@/lib/tasks';
 
 // Get all categories with task counts
 export function getAllCategories() {

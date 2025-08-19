@@ -1,4 +1,4 @@
-// data/mockCategories.js
+// src/data/mockCategories.js
 export const categories = [
   {
     id: 1,

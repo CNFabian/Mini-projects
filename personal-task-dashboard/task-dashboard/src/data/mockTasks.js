@@ -1,4 +1,4 @@
-// data/mockTasks.js
+// src/data/mockTasks.js
 export const tasks = [
   {
     id: 1,

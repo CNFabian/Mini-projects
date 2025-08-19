@@ -1,6 +1,5 @@
-// lib/tasks.js
-import { tasks as initialTasks } from '../data/mockTasks';
-import { v4 as uuidv4 } from 'uuid';
+// src/lib/tasks.js
+import { tasks as initialTasks } from '@/data/mockTasks';
 
 // Simulate database with in-memory storage
 // In a real app, this would be replaced with API calls
